@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@700&family=Poppins:wght@400;500&display=swap');
+
+.nav{
+    background-color: white;  
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    width: 100%;
+    position: fixed;
+    top:0px;
+    text-align:center;
+    overflow: hidden;
+}
+
+.div-a{
+    margin-top: 1vh;
+    margin-left: 2vw;
+}
+
+.a-edie{
+    color: #333333;
+    font-weight: bold;
+    font-family: Heebo;
+    font-size: 1.5vw;
+}
+
+.div-list-nav{
+    margin-right: 2vw;
+}
+
+.list-nav{
+    display: flex;
+    list-style: none;
+}
+
+.a-list-nav{
+    font-size: 1.2vw;
+    font-family: Poppins;
+    color: #333;
+}
+
+.list-a{
+    margin-left: 2vw;
+}

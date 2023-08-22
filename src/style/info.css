@@ -1,0 +1,80 @@
+.info {
+  margin-top: 15vh;
+}
+
+.div-first-text-info {
+  margin-left: 10vw;
+  margin-bottom: 6vh;
+}
+
+.h3-div-first-text {
+  color: #2d9cdb;
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 1.5vw;
+}
+
+.h1-div-first-text {
+  margin-top: 0vh;
+  width: 60vw;
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 4vw;
+  color: #333;
+}
+
+.people-group {
+  margin-left: 5vw;
+  width: 90vw;
+  border-radius: 18px;
+}
+
+.div-second-text-info {
+  margin-left: 10vw;
+}
+
+.h1-div-second-text {
+  font-size: 4vw;
+  font-family: Poppins;
+  font-weight: 500;
+  color: #333;
+}
+
+.p-div-second-text {
+  font-size: 1.5vw;
+  color: #4F4F4F;
+}
+
+.label-div-second-text{
+    color: #828282;
+    font-family: Poppins;
+    font-weight: 500;
+}
+
+.input-button-div-second-text {
+    background-color: #F2F2F2;
+    border-radius: 12px;
+    width: 270px;
+}
+
+.input-div-second-text {
+  appearance: none;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  font-family: inherit;
+  font-size: inherit;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  margin-left: 10px;
+}
+
+.button-div-second-text {
+  border-radius: 12px;
+  background: #2d9cdb;
+  color: white;
+  width: 75px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
