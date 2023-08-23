@@ -1,0 +1,13 @@
+.task{
+    margin-left: 10vw;
+}
+
+.h1-task{
+    color: #333;
+    font-family: Poppins;
+font-weight: 500;
+}
+
+.div-task{
+    display: flex;
+}

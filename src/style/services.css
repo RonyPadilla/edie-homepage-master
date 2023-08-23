@@ -11,8 +11,8 @@
 }
 
 .div-service-info {
-  width: 341px;
-  height: 422px;
+  width: 20.7vw;
+  height: 50.2vh;
   border-radius: 24px;
   background-color: antiquewhite;
 }
@@ -22,35 +22,46 @@
   align-items: center;
   justify-content: center;
   background-color: aqua;
-  width: 67px;
-  height: 67px;
-  border-radius: 16px;
-  margin-top: 30px;
-  margin-left: 30px;
+  width: 3.5vw;
+  height: 7.2vh;
+  border-radius: 0.8vw;
+  margin-top: 5.3vh;
+  margin-left: 2.6vw;
 }
 
 .icon {
   color: white;
-  width: 36px;
-  height: 36px;
+  width: 1.9vw;
+  height: 3.8vh;
 }
 
-.div-service-info-text{
-    margin-left: 30px;
+.div-service-info-text {
+  margin-left: 2.6vw;
 }
 
-.h2-service-info-text{
-    color: #333;
+.h2-service-info-text {
+  color: #333;
+  font-size: 1.2vw;
 }
 
-.p-service-info-text{
-    color: #333;
+.p-service-info-text {
+  color: #333;
+  font-size: 1vw;
 }
 
-.button-service-info-text{
-    color: #828282;
-font-family: Poppins;
-font-weight: 500;
+.button-service-info-text {
+  margin-top: 1vh;
+  color: #828282;
+  font-family: Poppins;
+  font-weight: 500;
+  border: none;
+  padding: 0.8em 1.2em;
+  border-radius: 12px;
+  background-color: #e0e0e0;
+}
 
-    background-color: #E0E0E0;
+.button-service-info-text:hover {
+  transition: 0.5s;
+  background-color: #2D9CDB;
+  color: white;
 }

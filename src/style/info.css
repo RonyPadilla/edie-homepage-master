@@ -74,7 +74,11 @@
   border-radius: 12px;
   background: #2d9cdb;
   color: white;
-  width: 75px;
+  padding: 0.8em 1.8em;
+  font-family: Poppins;
+  font-weight: 500;
+  border: none;
+  border-radius: 12px;
   margin-top: 5px;
   margin-bottom: 5px;
 }

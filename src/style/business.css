@@ -1,0 +1,66 @@
+.business {
+  margin-left: 10vw;
+}
+
+.h1-business {
+  font-family: Poppins;
+  color: #333;
+  font-weight: 500;
+}
+
+.div-container-business {
+  margin-left: 10vw;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 10px;
+
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.div-content-business-par {
+  margin-top: 30%;
+}
+
+.div-img-business {
+  border-radius: 0.5vw;
+  width: 39vw;
+  height: 76vh;
+}
+
+.img-business {
+  border-radius: 0.5vw;
+  width: 39vw;
+  height: 76vh;
+}
+
+.p-info-business {
+  margin-bottom: 0%;
+  font-family: Poppins;
+  font-weight: 300;
+  color: #828282;
+}
+
+.h2-info-business {
+  margin-top: 0%;
+  font-family: Poppins;
+  font-weight: 500;
+  color: #333;
+}
+
+.div-seemore-business{
+    display: flex;
+    margin-left: 70vw;
+    margin-top: -5%;
+}
+
+.seemore-business{
+    font-size: 2vw;
+    color: #2D9CDB;
+}
+
+.icon-business{
+    font-size: 2vw;
+    margin-top: 4%;
+    color: #2D9CDB;
+}
