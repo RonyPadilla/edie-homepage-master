@@ -25,6 +25,7 @@
 
 .people-group {
   margin-left: 5vw;
+  margin-right: 5vw;
   width: 90vw;
   border-radius: 18px;
 }
@@ -87,4 +88,43 @@
   background: #2d9cdb;
   color: white;
   transition: 0.8s;
+}
+
+@media (max-width: 770px) {
+  .h3-div-first-text{
+    font-size: 1em;
+  }
+
+  .h1-div-first-text{
+    font-size: 1.5em;
+    width: 90%;
+  }
+
+  .people-group{
+    width: 90vw;
+    height: 145px;
+  }
+
+  .h1-div-second-text{
+    font-size: 1.5em;
+  }
+
+  .p-div-second-text{
+    font-size: 1em;
+  }
+  
+  .label-div-second-text{
+    font-size: 1em;
+  }
+
+  .input-button-div-second-text{
+    background-color: #2d9cdb;
+    width: 70%;
+  }
+
+  .input-div-second-text{
+    width: 50%;
+    margin-right: 20%;
+  }
+
 }

@@ -45,6 +45,9 @@
 }
 
 @media (max-width: 770px) {
+    .nav{
+        width: 85%;
+    }
 
     .a-edie{
         font-size: 5vw;

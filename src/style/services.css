@@ -65,3 +65,21 @@
   background-color: #2D9CDB;
   color: white;
 }
+
+@media (max-width: 770px) {
+  .h1-services{
+    font-size: 8vw;
+  }
+
+  .div-services {
+    display: flex;
+    justify-content: none;
+    flex-direction: column;
+  }
+
+  .div-service-info{
+    width: 80%;
+    height: 50.2vh;
+    margin-bottom: 5%;
+  }
+}

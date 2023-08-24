@@ -8,7 +8,7 @@ export const Services = () => {
       <section className="services">
         <h1 className="h1-services">
           We offer high <br />
-          demand services{" "}
+          demand services
         </h1>
         <div className="div-services">
           <div className="div-service-info">
