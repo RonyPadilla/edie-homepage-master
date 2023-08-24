@@ -6,7 +6,8 @@ import { Info } from '../src/components/Info.jsx'
 import { Services } from '../src/components/Services.jsx'
 import { Business } from '../src/components/Business.jsx'
 import { Team } from '../src/components/Team.jsx'
-import { Task } from '../src/components/Task'
+import { Task } from '../src/components/Task.jsx'
+import { Footer } from '../src/components/Footer.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
@@ -16,5 +17,6 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <Business/>
     <Team/>
     <Task/>
+    <Footer/>
   </React.StrictMode>,
 )

@@ -1,13 +1,47 @@
-.task{
-    margin-left: 10vw;
+.task {
+  margin-top: 10%;
+  margin-left: 10vw;
+  margin-bottom: 20%;
 }
 
-.h1-task{
-    color: #333;
-    font-family: Poppins;
-font-weight: 500;
+.div-h1-task {
+  width: 60vw;
 }
 
-.div-task{
-    display: flex;
+.h1-task {
+  color: #333;
+  font-family: Poppins;
+  font-weight: 500;
+}
+
+.div-task {
+  display: flex;
+}
+
+.div-img-task {
+  width: 6vw;
+}
+.img-task {
+  width: 100%;
+  border-radius: 8px;
+}
+
+.div-info-task {
+  margin-top: -1.5%;
+  margin-left: 1%;
+}
+
+.div-h2-info-task {
+  margin-bottom: 5%;
+  color: #333;
+  font-family: Poppins;
+  font-weight: 500;
+}
+
+.div-p-info-task {
+  margin-top: 0%;
+  color: #828282;
+  font-size: 1.4vw;
+  font-family: Poppins;
+  font-weight: 500;
 }

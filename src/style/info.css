@@ -72,13 +72,19 @@
 
 .button-div-second-text {
   border-radius: 12px;
-  background: #2d9cdb;
-  color: white;
+  background-color: #6df3fa;
+  color: #a2a2a2;
   padding: 0.8em 1.8em;
   font-family: Poppins;
   font-weight: 500;
   border: none;
-  border-radius: 12px;
   margin-top: 5px;
   margin-bottom: 5px;
+  cursor: pointer;
+}
+
+.button-div-second-text:hover{
+  background: #2d9cdb;
+  color: white;
+  transition: 0.8s;
 }

@@ -1,0 +1,115 @@
+.footer {
+  background: #100e1d;
+  padding: 10px;
+
+}
+
+.div-footer-contact {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 2%;
+}
+
+.li-footer-link {
+  list-style: none;
+}
+
+.footer-link {
+  color: #fff;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 200%;
+}
+
+.div-icon-footer{
+    margin-top: -0.6%;
+}
+
+.div-h2-icon{
+    margin-bottom: 5%;
+    color: white;
+}
+
+.div-footer-icon{
+    display: flex;
+    margin-top: 0%;
+}
+
+.footer-icon-1{
+    font-size: 140%;
+    color: white;
+    margin-right: 10%;
+    cursor: pointer;
+}
+
+.footer-icon-2{
+    font-size: 140%;
+    color: white;
+    margin-right: 8%;
+    cursor: pointer;
+}
+
+.footer-icon-3{
+    font-size: 190%;
+    color: white;
+    margin-top: -5%;
+    cursor: pointer;
+}
+
+.label-div-footer {
+  color: #828282;
+  font-family: Poppins;
+  font-weight: 500;
+}
+
+.input-button-div-footer {
+  background-color: #f2f2f2;
+  border-radius: 12px;
+  width: 270px;
+}
+
+.input-div-footer {
+  appearance: none;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  font-family: inherit;
+  font-size: inherit;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  margin-left: 10px;
+}
+
+.button-div-footer {
+  border-radius: 12px;
+  background-color: #9a9595;
+  color: #fffefd;
+  padding: 0.8em 1.8em;
+  font-family: Poppins;
+  font-weight: 500;
+  border: none;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  cursor: pointer;
+}
+
+.button-div-footer:hover {
+  background: #2d9cdb;
+  color: white;
+  transition: 0.8s;
+}
+
+.div-credits-footer{
+    margin-top: 5%;
+}
+
+.credits {
+    color: rgb(107, 113, 118);
+    font-size: large;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
