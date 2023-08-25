@@ -68,6 +68,7 @@
 
 @media (max-width: 770px) {
   .h1-services {
+    width: 80vw;
     font-size: 8vw;
   }
 
