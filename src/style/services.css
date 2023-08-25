@@ -62,12 +62,12 @@
 
 .button-service-info-text:hover {
   transition: 0.5s;
-  background-color: #2D9CDB;
+  background-color: #2d9cdb;
   color: white;
 }
 
 @media (max-width: 770px) {
-  .h1-services{
+  .h1-services {
     font-size: 8vw;
   }
 
@@ -77,10 +77,41 @@
     flex-direction: column;
   }
 
-  .div-service-info{
+  .div-service-info {
     width: 90vw;
     height: 50.2vh;
     margin-left: 5vw;
     margin-bottom: 5%;
+  }
+
+  .div-icon {
+    width: 20vw;
+    height: 8vh;
+    border-radius: 18px;
+    margin-left: 10vw;
+  }
+
+  .icon {
+    color: white;
+    width: 12vw;
+    height: 12vh;
+  }
+
+  .div-service-info-text {
+    margin-left: 10vw;
+  }
+
+  .h2-service-info-text {
+    color: #333;
+    font-family: Poppins;
+    font-weight: 700;
+    font-size: 6vw;
+  }
+
+  .p-service-info-text {
+    color: #4f4f4f;
+    font-family: Poppins;
+    font-weight: 400;
+    font-size: 4vw;
   }
 }
