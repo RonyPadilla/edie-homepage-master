@@ -78,8 +78,9 @@
   }
 
   .div-service-info{
-    width: 80%;
+    width: 90vw;
     height: 50.2vh;
+    margin-left: 5vw;
     margin-bottom: 5%;
   }
 }

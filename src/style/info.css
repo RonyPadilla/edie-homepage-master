@@ -91,6 +91,11 @@
 }
 
 @media (max-width: 770px) {
+
+  .div-first-text-info{
+    width: 80vw;
+  }
+
   .h3-div-first-text{
     font-size: 1em;
   }
@@ -103,6 +108,10 @@
   .people-group{
     width: 90vw;
     height: 145px;
+  }
+
+  .div-second-text-info{
+    width: 80vw;
   }
 
   .h1-div-second-text{
@@ -118,8 +127,8 @@
   }
 
   .input-button-div-second-text{
-    background-color: #2d9cdb;
-    width: 70%;
+    background-color: #f2f2f2;
+    width: 80vw;
   }
 
   .input-div-second-text{
