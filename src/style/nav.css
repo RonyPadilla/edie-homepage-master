@@ -46,7 +46,12 @@
 
 @media (max-width: 770px) {
     .nav{
-        width: 85%;
+        width: 90vw;
+    }
+
+    .div-a {
+      margin-top: 1vh;
+      margin-left: 5vw;
     }
 
     .a-edie{

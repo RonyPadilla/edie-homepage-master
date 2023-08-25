@@ -45,3 +45,29 @@
   font-family: Poppins;
   font-weight: 500;
 }
+
+@media (max-width: 770px) {
+  .task {
+    margin-top: 10vh;
+    margin-left: 5vw;
+    margin-bottom: 20vh;
+  }
+
+  .div-h1-task {
+    width: 90vw;
+    font-size: 0.5em;
+  }
+
+  .div-img-task {
+    width: 25vw;
+  }
+  
+  .div-info-task {
+    margin-top: 0vh;
+    margin-left: 10vw;
+  }
+  
+  .div-p-info-task {
+    font-size: 1em;
+  }
+}
