@@ -46,7 +46,7 @@ export const Footer = () => {
             </div>
           </div>
 
-          <div>
+          <div className="div-button-footer">
             <label className="label-div-footer">Want us to contact you?</label>
             <div className="input-button-div-footer">
               <input
