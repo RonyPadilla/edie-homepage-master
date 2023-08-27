@@ -12,7 +12,7 @@ export const Info = () => {
         <div className='div-second-text-info'>
             <h1 className='h1-div-second-text'>Story, emotion <br/>and purpose</h1>
             <p className='p-div-second-text'>We help transform your ideas into real <br/>world applications that will outperform <br/>your toughest competition and help you <br/>achieve your strategic goals in short<br/> period of time.</p>
-            <div >
+            <div className='div-button-info'>
                 <label className='label-div-second-text'>Want us to contact you?</label>
                 <div className='input-button-div-second-text'>
                     <input className='input-div-second-text' type="text" placeholder="Email"/>
